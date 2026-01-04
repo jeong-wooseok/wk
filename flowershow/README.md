@@ -6,3 +6,5 @@
 
 ### 뉴스 바로가기
 [[flowershow/News/뉴스_버티컬AI]]
+[[flowershow/News/README]]
+[[flowershow/Paper/README]]
