@@ -181,6 +181,8 @@ Blurring The Lines
 
 “나는 투자자이기 때문에 더 나은 사업가이고, 사업가이기 때문에 더 나은 투자자다.” — Warren Buffett
 
+[[News/README|전체뉴스보기]]
+
 ---
 ##### description Links
 - https://research.contrary.com/deep-dive/the-vertical-ai-playbook
@@ -262,4 +264,3 @@ Blurring The Lines
 ##### Reflection
 
 ---
-[[News/README|전체뉴스보기]]
